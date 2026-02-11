@@ -1,0 +1,6 @@
+num1=as.integer(readline(prompt="enter the first number:"))
+enter the first number:138
+num2=as.integer(readline(prompt="enter the first number:"))
+enter the first number:2
+num3=num1/num2
+print(num3)
